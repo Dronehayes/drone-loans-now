@@ -55,7 +55,7 @@ const Dashboard = () => {
             <div className="bg-gradient-to-br from-primary to-accent p-2 rounded-lg">
               <GraduationCap className="h-6 w-6 text-primary-foreground" />
             </div>
-            <h1 className="text-xl font-bold">Drone's Campus Microfinance</h1>
+            <h1 className="text-xl font-bold">Kingdom  Campus Microfinance Loans</h1>
           </div>
           <Button variant="ghost" size="sm" onClick={handleLogout}>
             <LogOut className="h-4 w-4 mr-2" />
@@ -111,7 +111,7 @@ const Dashboard = () => {
             <Button
               variant="outline"
               className="w-full justify-start"
-              onClick={() => window.open(`https://wa.me/254700000000?text=${encodeURIComponent("Hello, I need help with my loan application")}`, "_blank")}
+              onClick={() => window.open(`https://wa.me/254769659252?text=${encodeURIComponent("Hello, I need help with my loan application")}`, "_blank")}
             >
               <Phone className="h-4 w-4 mr-2" />
               Chat on WhatsApp
