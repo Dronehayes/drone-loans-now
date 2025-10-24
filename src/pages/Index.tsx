@@ -16,7 +16,7 @@ const Index = () => {
               <GraduationCap className="h-16 w-16" />
             </div>
             <h1 className="text-4xl md:text-6xl font-bold">
-              Drone's Campus Microfinance
+              Kingdom Campus Microfinance
             </h1>
             <p className="text-xl md:text-2xl max-w-2xl text-primary-foreground/90">
               Quick, reliable, and convenient student loans for campus life
